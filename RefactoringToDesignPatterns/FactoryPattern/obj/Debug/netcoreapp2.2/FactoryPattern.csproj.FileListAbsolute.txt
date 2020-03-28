@@ -1,0 +1,11 @@
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\RefactoringToDesignPatterns\FactoryPattern\bin\Debug\netcoreapp2.2\FactoryPattern.deps.json
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\RefactoringToDesignPatterns\FactoryPattern\bin\Debug\netcoreapp2.2\FactoryPattern.runtimeconfig.json
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\RefactoringToDesignPatterns\FactoryPattern\bin\Debug\netcoreapp2.2\FactoryPattern.runtimeconfig.dev.json
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\RefactoringToDesignPatterns\FactoryPattern\bin\Debug\netcoreapp2.2\FactoryPattern.dll
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\RefactoringToDesignPatterns\FactoryPattern\bin\Debug\netcoreapp2.2\FactoryPattern.pdb
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\RefactoringToDesignPatterns\FactoryPattern\obj\Debug\netcoreapp2.2\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\RefactoringToDesignPatterns\FactoryPattern\obj\Debug\netcoreapp2.2\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\RefactoringToDesignPatterns\FactoryPattern\obj\Debug\netcoreapp2.2\FactoryPattern.AssemblyInfo.cs
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\RefactoringToDesignPatterns\FactoryPattern\obj\Debug\netcoreapp2.2\FactoryPattern.dll
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\RefactoringToDesignPatterns\FactoryPattern\obj\Debug\netcoreapp2.2\FactoryPattern.pdb
+C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\RefactoringToDesignPatterns\FactoryPattern\obj\Debug\netcoreapp2.2\FactoryPattern.csprojAssemblyReference.cache
