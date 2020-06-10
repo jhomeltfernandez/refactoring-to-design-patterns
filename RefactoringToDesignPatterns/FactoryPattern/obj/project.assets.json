@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jhomel\\Documents\\Visual Studio 2017\\Projects\\RefactoringToDesignPatterns\\FactoryPattern\\FactoryPattern.csproj",
+      "projectUniqueName": "D:\\DPTraining\\refactoring-to-design-patterns\\RefactoringToDesignPatterns\\FactoryPattern\\FactoryPattern.csproj",
       "projectName": "FactoryPattern",
-      "projectPath": "C:\\Users\\Jhomel\\Documents\\Visual Studio 2017\\Projects\\RefactoringToDesignPatterns\\FactoryPattern\\FactoryPattern.csproj",
+      "projectPath": "D:\\DPTraining\\refactoring-to-design-patterns\\RefactoringToDesignPatterns\\FactoryPattern\\FactoryPattern.csproj",
       "packagesPath": "C:\\Users\\Jhomel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jhomel\\Documents\\Visual Studio 2017\\Projects\\RefactoringToDesignPatterns\\FactoryPattern\\obj\\",
+      "outputPath": "D:\\DPTraining\\refactoring-to-design-patterns\\RefactoringToDesignPatterns\\FactoryPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

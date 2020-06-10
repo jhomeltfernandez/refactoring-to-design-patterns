@@ -9,3 +9,14 @@ C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\RefactoringToDesignPattern
 C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\RefactoringToDesignPatterns\SingletonePattern\obj\Debug\netcoreapp2.2\SingletonePattern.AssemblyInfo.cs
 C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\RefactoringToDesignPatterns\SingletonePattern\obj\Debug\netcoreapp2.2\SingletonePattern.dll
 C:\Users\Jhomel\Documents\Visual Studio 2017\Projects\RefactoringToDesignPatterns\SingletonePattern\obj\Debug\netcoreapp2.2\SingletonePattern.pdb
+D:\DPTraining\refactoring-to-design-patterns\RefactoringToDesignPatterns\SingletonePattern\bin\Debug\netcoreapp2.2\SingletonePattern.deps.json
+D:\DPTraining\refactoring-to-design-patterns\RefactoringToDesignPatterns\SingletonePattern\bin\Debug\netcoreapp2.2\SingletonePattern.runtimeconfig.json
+D:\DPTraining\refactoring-to-design-patterns\RefactoringToDesignPatterns\SingletonePattern\bin\Debug\netcoreapp2.2\SingletonePattern.runtimeconfig.dev.json
+D:\DPTraining\refactoring-to-design-patterns\RefactoringToDesignPatterns\SingletonePattern\bin\Debug\netcoreapp2.2\SingletonePattern.dll
+D:\DPTraining\refactoring-to-design-patterns\RefactoringToDesignPatterns\SingletonePattern\bin\Debug\netcoreapp2.2\SingletonePattern.pdb
+D:\DPTraining\refactoring-to-design-patterns\RefactoringToDesignPatterns\SingletonePattern\obj\Debug\netcoreapp2.2\SingletonePattern.csprojAssemblyReference.cache
+D:\DPTraining\refactoring-to-design-patterns\RefactoringToDesignPatterns\SingletonePattern\obj\Debug\netcoreapp2.2\SingletonePattern.csproj.CoreCompileInputs.cache
+D:\DPTraining\refactoring-to-design-patterns\RefactoringToDesignPatterns\SingletonePattern\obj\Debug\netcoreapp2.2\SingletonePattern.AssemblyInfoInputs.cache
+D:\DPTraining\refactoring-to-design-patterns\RefactoringToDesignPatterns\SingletonePattern\obj\Debug\netcoreapp2.2\SingletonePattern.AssemblyInfo.cs
+D:\DPTraining\refactoring-to-design-patterns\RefactoringToDesignPatterns\SingletonePattern\obj\Debug\netcoreapp2.2\SingletonePattern.dll
+D:\DPTraining\refactoring-to-design-patterns\RefactoringToDesignPatterns\SingletonePattern\obj\Debug\netcoreapp2.2\SingletonePattern.pdb

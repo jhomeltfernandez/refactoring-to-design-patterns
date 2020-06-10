@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jhomel\\Documents\\Visual Studio 2017\\Projects\\RefactoringToDesignPatterns\\SingletonePattern\\SingletonePattern.csproj",
+      "projectUniqueName": "D:\\DPTraining\\refactoring-to-design-patterns\\RefactoringToDesignPatterns\\SingletonePattern\\SingletonePattern.csproj",
       "projectName": "SingletonePattern",
-      "projectPath": "C:\\Users\\Jhomel\\Documents\\Visual Studio 2017\\Projects\\RefactoringToDesignPatterns\\SingletonePattern\\SingletonePattern.csproj",
+      "projectPath": "D:\\DPTraining\\refactoring-to-design-patterns\\RefactoringToDesignPatterns\\SingletonePattern\\SingletonePattern.csproj",
       "packagesPath": "C:\\Users\\Jhomel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jhomel\\Documents\\Visual Studio 2017\\Projects\\RefactoringToDesignPatterns\\SingletonePattern\\obj\\",
+      "outputPath": "D:\\DPTraining\\refactoring-to-design-patterns\\RefactoringToDesignPatterns\\SingletonePattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
